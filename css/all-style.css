@@ -660,11 +660,10 @@ a.pure-button-selected {
 	}
 	.footer-link h2{
 		text-align: center;
-		padding: none;
+        display: block;
 	}
 	.footer-link ul{
 		float: none;
+        margin: 0 24%;     
 	}
-
-
 }
