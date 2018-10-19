@@ -580,7 +580,7 @@ a.pure-button-selected {
 }
 
 .form-login .pure-form-stacked input{
-	width: 375px;
+	width: 100%;
 	border: 1px ;
 }
 
